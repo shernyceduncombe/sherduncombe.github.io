@@ -11,35 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Isogeny-based Cryptography, 
+Bundeswehr University Munich, 2028 (expected)
+  * Supervisor: Daniel Slamanig
+  * Topic: Isogeny-based key exchange protocols
+* M.S. in Mathematics, Technical University of Munich, 2025
+  * Supervisor: Lorenz Panny
+  * Topic: Supersingular Endomorphism Rings over $\mathbb{F}_p$
+* B.S. in Mathematics, Sorbonne University, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Jun 2025 - present: Engineer Advanced Technology
+  * Adva Network Security GmbH
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Dec 2022 - Jun 2025: Working Student
+  * IDS GmbH
+  * Developed methods for calibrating financial models, improved transparency and accuracy in valuation reporting.
 
 Publications
 ======
@@ -53,12 +41,8 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Attended events
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **September 2025** Isogeny Days. KU Leuven, Belgium
+* **June 2025** Workshop on the mathematics of post-quantum cryptography. UZH, Zurich, Switzerland 
+
